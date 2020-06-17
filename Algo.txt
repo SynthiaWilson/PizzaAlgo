@@ -6,4 +6,6 @@ all meat
 gluten free
 
 a small loaded meat
-2 Pepsi Colas
+2 Pepsi Cola
+
+Possible features
